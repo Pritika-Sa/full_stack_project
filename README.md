@@ -20,7 +20,7 @@ AptiTrack is a full-stack aptitude preparation and tracking platform that helps 
 ## Tech Stack
 
 ### Frontend
-- React.js (Vite)
+- React.js
 - Recharts (for data visualizations)
 - Bootstrap + Custom CSS (for styling and responsive UI)
 - html2pdf.js (for PDF export)
